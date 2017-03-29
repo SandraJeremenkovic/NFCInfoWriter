@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Info Writer</string>
+    <string name="MainText">You have a new Art Piece? Let me help you add additional information into NFC tag so your visitors can find out more about it. </string>
+</resources>
